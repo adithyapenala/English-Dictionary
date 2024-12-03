@@ -1,1 +1,1 @@
-English Dictionary android application develop as part of MOOC course.
+English Dictionary android application developed as part of MOOC course.
